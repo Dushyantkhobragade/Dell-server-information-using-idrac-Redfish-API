@@ -3,7 +3,7 @@
 1. This bash script is interactive which prompts for IDRAC IP and credentials of Idrac
 2. In script output, it will get Disk slot number, disk lifetime remaining and Disk size
    
-Script output will look like as below
+Script output will look like as below shown
 
 $ sh idrac_redfish_api_dell.sh 
 
